@@ -1,0 +1,18 @@
+body{
+  font-family: Arial;
+  
+  background-color: rgb(255, 255, 255);
+  
+}
+a{
+text-decoration: none;
+color: white;
+}
+
+a:visited{
+  text-decoration: none;
+  color: rgb(255, 255, 255);
+}
+a:hover{
+color: rgb(96, 133, 167);
+}
